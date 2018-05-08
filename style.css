@@ -1,0 +1,32 @@
+.container-fluid {
+    background: rgb(72, 240, 5);
+    outline: .1px double black;
+    padding: 5%;
+}
+
+.jumbotron {
+    background-image: url("https://www.popsci.com/sites/popsci.com/files/styles/1000_1x_/public/images/2016/04/alien-day-mark_englert-bottleneck-bk.jpg?itok=KYUkItVZ&fc=50,50");
+    background-size: 100%;
+    background-repeat:no-repeat;
+    display: compact;
+    color: rgb(185, 72, 7);
+}
+
+h2 {
+    text-align: right;
+    font-family: Cambria;
+    color: 
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.span6 {
+  style="float: none;
+  margin: 0 auto;
+}
